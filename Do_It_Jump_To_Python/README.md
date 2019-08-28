@@ -61,3 +61,17 @@
 14. 정규표현식 - 1
 15. 정규표현식 - 2
 16. 시험
+
+## 2019.08.28
+Window에서 작성한 코드가 Mac에서 작동하지 않는 문제 발견.  
+```
+File "/Users/Jeaha/git/Python_Study/Do_It_Jump_To_Python/1_Basic/01_Python/01-05_Python/05_function.py", line 1
+SyntaxError: Non-ASCII character '\xed' in file /Users/Jeaha/git/Python_Study/Do_It_Jump_To_Python/1_Basic/01_Python/01-05_Python/05_function.py on line 1, but no encoding declared; see http://python.org/dev/peps/pep-0263/ for details
+The terminal process terminated with exit code: 1
+```
+encoding 문제.  
+*.py 파일 1번줄에 다음 두개의 주석중 하나만 넣어주면 utf-8로 작동함.
+```
+# - *- coding: utf- 8 - *-
+# coding: utf- 8
+```
