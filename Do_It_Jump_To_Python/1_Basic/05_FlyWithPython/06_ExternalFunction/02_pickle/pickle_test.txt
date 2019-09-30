@@ -1,0 +1,8 @@
+(dp0
+I1
+S'Hell the'
+p1
+sI2
+S'Python'
+p2
+s.
