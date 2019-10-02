@@ -2,11 +2,11 @@
 Python을 공부해 보자.
 
 ## 실행 환경
-- Python 3.7.4
 - VS Code lastest
-- Win 10.
+- Win 10
+  - Python 3.7.4
   - Intel i7 CPU 2.20GHz
   - 16GB RAM
-- MacOS
+- Python 2.7.0
   - Intel i7 CPU 2.6GHz
   - 36GB RAM
