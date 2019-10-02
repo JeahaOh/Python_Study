@@ -1,14 +1,16 @@
 # Python_Study
+Python을 공부해 보자.
 **Do it!** `Jump to Python`  
 
 ## 실행 환경
-- Python 3.7.4
 - VS Code latest
   - Extension : Python (ver 2019.8.30787)
 - Win 10
+  - Python 3.7.4
   - Intel i7 CPU 2.20GHz
   - 16GB RAM
 - MacOS Mohave 10.14.6
+  - Python 2.7.0
   - Intel i7 CPU 2.6GHz
   - 36GB RAM
 
