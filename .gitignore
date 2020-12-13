@@ -170,3 +170,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# 복슴 폴더
+/revision/**
